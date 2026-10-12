@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+config.local.json
+
+# User data: database, backups, product photos, logs
+data/
+
+# Build output
+packaging/build/
+packaging/dist/
+release/

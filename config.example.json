@@ -1,0 +1,5 @@
+{
+  "BAKESYNC_SMTP_EMAIL": "your-sender@gmail.com",
+  "BAKESYNC_SMTP_PASSWORD": "your-16-char-gmail-app-password",
+  "BAKESYNC_DB": "bakesync.db"
+}
